@@ -1,0 +1,21 @@
+.wrapper{
+    padding: auto 0;
+    margin-top: 250px;
+}
+.form{
+    background-color: rgb(224, 166, 127);
+    width: 550px;
+    margin: auto;
+    text-align: left;
+    padding: 30px;
+}
+.form-control{
+    width: auto;
+}
+.inputBox{
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 500px;
+    align-items: center;
+}
